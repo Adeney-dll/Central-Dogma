@@ -8,9 +8,3 @@ t_count = dna.count("T")
 print(f"{a_count} {c_count} {g_count} {t_count}")
 assert f"{a_count} {c_count} {g_count} {t_count}" == "20 12 17 21"
 
-dna2 = "GATGGAACTTGACTACGTAAATT"
-
-rna = dna2.replace ("T", "U")
-print(rna)
-
-assert rna == "GAUGGAACUUGACUACGUAAAUU"

@@ -1,0 +1,12 @@
+dna = "AAAACCCGGT"
+
+complement_map = {"A": "T", "T": "A", "C": "G", "G": "C"}
+
+complement = ""
+for base in dna:
+    complement = complement + complement_map[base]
+
+reversed_complement = complement[::-1]
+
+print(reversed_complement)
+assert reversed_complement == "ACCGGGTTTT"
