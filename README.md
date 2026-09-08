@@ -1,7 +1,16 @@
-## Central-Dogma
+### Central-Dogma
 An amalgamation of biology and programming created from my attempts to extract and solve molecular biology problems from Rosalind.info.
 
 ### Table of tasks
+Python table
+
+| **Code** | Task | **Concept**         | **Rosalind Problem** | **Status** |
+| -------- | ---- | ------------------- | -------------------- | ---------- |
+| Rosa.py  | 1    | Variables and maths | Numbers              | *DONE*     |
+| Rosa.py  | 2    | Strings and lists   | Words and characters | *DONE*     |
+|          |      |                     |                      |            |
+|          |      |                     |                      |            |
+Bioinformatics table
 
 | **Script**            | **Biological Concept**      | **Rosalind Problem** | **Status** |
 | --------------------- | --------------------------- | -------------------- | ---------- |
