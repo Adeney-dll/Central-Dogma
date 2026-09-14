@@ -2,7 +2,7 @@
 An amalgamation of biology and programming created from my attempts to extract and solve molecular biology problems from Rosalind.info.
 
 ### Table of tasks
-Python table
+Python table and Bioinformatics task tables
 
 | **Code** | Task | **Concept**         | **Rosalind Problem** | **Status** |
 | -------- | ---- | ------------------- | -------------------- | ---------- |
@@ -10,7 +10,6 @@ Python table
 | Rosa.py  | 2    | Strings and lists   | Words and characters | *DONE*     |
 |          |      |                     |                      |            |
 |          |      |                     |                      |            |
-Bioinformatics table
 
 | **Script**            | **Biological Concept**      | **Rosalind Problem** | **Status** |
 | --------------------- | --------------------------- | -------------------- | ---------- |
