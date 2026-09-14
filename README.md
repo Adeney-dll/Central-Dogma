@@ -4,12 +4,12 @@ An amalgamation of biology and programming created from my attempts to extract a
 ### Table of tasks
 Python table and Bioinformatics task tables
 
-| **Code** | Task | **Concept**         | **Rosalind Problem** | **Status** |
-| -------- | ---- | ------------------- | -------------------- | ---------- |
-| Rosa.py  | 1    | Variables and maths | Numbers              | *DONE*     |
-| Rosa.py  | 2    | Strings and lists   | Words and characters | *DONE*     |
-|          |      |                     |                      |            |
-|          |      |                     |                      |            |
+| **Code**       | Task | **Concept**         | **Rosalind Problem** | **Status** |
+| -------------- | ---- | ------------------- | -------------------- | ---------- |
+| num_task01.py  | 1    | Variables and maths | Numbers              | *DONE*     |
+| list_task02.py | 2    | Strings and lists   | Words and characters | *DONE*     |
+| con_task03.py  | 3    | Condition and loops | Patherns             | *DONE*     |
+|                |      |                     |                      |            |
 
 | **Script**            | **Biological Concept**      | **Rosalind Problem** | **Status** |
 | --------------------- | --------------------------- | -------------------- | ---------- |
